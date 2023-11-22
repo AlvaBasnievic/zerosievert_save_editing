@@ -1,0 +1,20 @@
+C:\Users\USER_NAME\AppData\Local\ZERO_Sievert\STEAM_ID
+Save file name:
+save_shared_#.dat
+
+
+Changing Difficulty Settings:
+Find:
+"difficulty": { 
+And next are dificulty settings:
+"difficulty": { "trade_item_amount": 5.0, "pro_reputation_multiplier": 1.0, "hardcore_lose_other": 1.0, "trade_price_medication": 1.0, "pro_player_health": 75.0, "pro_quest_money": 3.0, "pro_service_price": 1.5, "trade_price_ammo": 1.0, "trade_price_backpack": 1.0, "pro_exp_multiplier": 1.0, "pro_min_carry_weight": 9.0, "hardcore_lose_equipment": 1.0, "loot_item_amount": 1.25, "pro_quest_rep": 1.0, "enemy_mutant_damage": 1.0, "loot_weapon_dur_max": 75.0, "trade_price_weapon": 1.0, "trade_trader_money": 5.0, "loot_amount_single_item": 1.0, "loot_weapon_dur_min": 60.0, "hardcore_lose_keys": 0.0, "enemy_mutant_hp": 1.0, "enemy_human_hp": 1.0, "loot_npc_drop_ammo": 3.0, "hardcore_lose_consumable": 1.0, "trade_price_armor": 1.0, "trade_sell_mult": 0.34999999999999997779553950749687, "hardcore_perma_death": 0.0, "pro_quest_item": 2.0, "pro_hunger_thirst_rate": 1.25, "enemy_human_damage": 1.0, "hardcore_lose_medication": 1.0, "loot_npc_drop_armor": 1.0, "hardcore_lose_ammo": 1.0 }, 
+
+
+14 Chest in Storage
+Use Debug mode and upgrade your stash two times.
+Go to SAVE:
+C:\Users\USER_NAME\AppData\Local\ZERO_Sievert\STEAM_ID
+In save-file FIND:
+"Storage": { "slot now": 9.0 },
+And change to:
+"Storage": { "slot now": 14.0 },
